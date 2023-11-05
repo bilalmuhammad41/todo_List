@@ -2,7 +2,7 @@
 
  ![image](https://github.com/bilalmuhammad41/todo_List/assets/122988632/384032ff-3f34-46e8-a321-0414c6ba109b)
 
-This app is live at: [My Todos](https://bilalmuhammad41.github.io/theme_switcher/)
+This app is live at: [My Todos](https://bilalmuhammad41.github.io/todo_List/)
 
 ## Overview
 
